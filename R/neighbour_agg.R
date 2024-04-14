@@ -1,7 +1,7 @@
 #' Neighbouhood index Function - neighbour.agg
 #' 
 #' This function is an implementation of the Neighbourhood Index for quantifying wildfire likelihood.
-#' As presented in the publication ...
+#' For details, please see the publication Radford et al. (2024). An efficient, multi-scale neighbourhood index to quantify wildfire likelihood. The International Journal of Wildland Fire. DOI: 10.1071/WF23055.
 #' @param x An input SpatRaster layer which describes the contribution of each cell to fire spread in a "neighbourhood" (e.g., potential Rate of Spread, Head Fire Intensity).
 #' @param params A dataframe with input parameters, each corresponding to the number of "neighbourhoods". Three parameters required in the dataframe, Distance (param_D), Alpha (param_alpha) and Resolution Factors (param_Rfact).
 #' @param wdir numeric giving the direction of prevailing wind, with respect to which neighbourhood aggregation should be calculated.
