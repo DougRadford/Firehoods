@@ -9,4 +9,4 @@ Description: This package provides a function (neighbouhood.function)
 	When using the package, we ask that the below publication is cited.
 	publication: Radford, DAG, Maier, HRM, van Delden, H, Zecchin, AZ, Jeanneau, A 2024. An efficient, multi-scale neighbourhood index to quantify wildfire likelihood. The International Journal of Wildland Fire. DOI: 10.1071/WF23055
 Encoding: UTF-8
-RoxygenNote: 7.2.2
+RoxygenNote: 7.3.2
